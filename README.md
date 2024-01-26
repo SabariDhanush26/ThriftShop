@@ -1,0 +1,2 @@
+# ThriftShop
+ E-Commerce Platform
