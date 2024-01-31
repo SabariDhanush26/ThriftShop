@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "thriftshop",
+  "version": "1.0.0",
+  "description": "E-Commerce Platform",
+  "main": "index.js",
+  "author": "Sabari Dhanush",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3"
+  }
+}
